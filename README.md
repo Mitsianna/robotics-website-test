@@ -1,2 +1,9 @@
-# robotics-website-test
-this is a sample website for CIHS Robotics class
+#heading
+##heading
+###heading
+####heading
+#####heading
+######heading
+*hello how is your day
+**hello**
+**hi**
